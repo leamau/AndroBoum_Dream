@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name" translatable="false">AndroBoum</string>
+
+    <string name="titre">L\'application qui fait boum !</string>
+
+    <string name="nom" translatable="false">Maurice Léa </string>
+    <string name="start">Démarrer</string>
+
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
+    <string name="action_logout" translatable="false">Deconnexion</string>
+
+    <string name="action_settings" translatable="false">Paramètres</string>
+
+    <string name="action_filtre">Filtre</string>
+    <string name="action_map">Map</string>
+
+    <string name="filter_dialog_title">Filtrer</string>
+    <string name="action_list">Liste des utilisateurs</string>
+    <string name="email">Mail</string>
+    <string name="imageUploaded" translatable="false">Image ajoutée</string>
+
+    <string name="action_bomb">Bomber !</string>
+
+
+
+    <string name="cible">cible</string>
+    <string name="action_bomber">renvoyer la bombe</string>
+
+    <string name="bombedText">Vous avez été bombé par </string>
+
+    <string name="target">Cible</string>
+
+    <string name="source">Attaquant</string>
+    <string name="resendBomb">Renvoyer la bombe</string>
+
+    <string name="nouserresponse">Pas de réponse de l\'utilisateur</string>
+
+    <string name="userbusy">L\'utilisateur est occupé</string>
+
+
+    <string name="cantbombme">Vous ne pouvez pas vous bomber vous même !</string>
+    <string name="bombexplosed">La bombe a explosé !</string>
+
+
+    <string name="win">Gagné !</string>
+    <string name="lost">Perdu !</string>
+    <string name="score">SCORE :</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

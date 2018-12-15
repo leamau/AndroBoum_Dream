@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="titre">The bombing app !</string>
+
+    <string name="nom" translatable="false">Maurice Léa</string>
+    <string name="start">Start</string>
+
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
+    <string name="action_logout" translatable="false">Log out</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="action_filtre">Filter</string>
+
+    <string name="action_map">Map</string>
+
+    <string name="filter_dialog_title">Filter</string>
+    <string name="action_list">Users List</string>
+    <string name="email">Mail</string>
+    <string name="imageUploaded" translatable="false">Image uploaded</string>
+
+
+
+    <string name="action_bomb">Bomber !</string>
+    <string name="cible">target</string>
+    <string name="action_bomber">Resend the bomb</string>
+
+    <string name="bombedText">You have been bomb by  </string>
+    <string name="target">Target</string>
+    <string name="source">Assailant</string>
+
+    <string name="resendBomb">Resend the bomb</string>
+    <string name="nouserresponse">No response</string>
+    <string name="userbusy">User is busy</string>
+
+    <string name="cantbombme">You can\'t bomb yourself</string>
+    <string name="bombexplosed">Bomb explosed !</string>
+    <string name="win">Win !</string>
+
+    <string name="lost">Lost !</string>
+
+    <string name="score">SCORE :</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
